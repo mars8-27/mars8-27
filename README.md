@@ -14,10 +14,7 @@ I build practical software that turns machine-learning ideas into usable applica
 | Project | What it is |
 | --- | --- |
 | [**Heart Disease Prediction System**](https://github.com/mars8-27/Heart-Disease-Prediction) | End-to-end ML application using Python, Pandas and XGBoost, with PostgreSQL/SQLAlchemy for data persistence and Streamlit for the interface. |
-| **Industrial Fire & Smoke Detection** | YOLOv8n computer-vision pipeline for detecting fire and smoke, with a learning path from inference to custom training, webcam detection, tracking and API deployment. |
-| **Medicinal Leaf Recognition** | Deep-learning image classifier using a MobileNetV2-based approach with Grad-CAM to make predictions more interpretable. |
-| **Mars Tourism App** | Application project combining software development with an interactive space-tourism concept. |
-| **AI / RAG Systems** | Learning and building retrieval-augmented applications with embeddings, vector databases, LangChain and LLM-based workflows. |
+| [**Smoke and fire detection using classical cv**](https://github.com/mars8-27/python_for_us/tree/main/Smoke%20and%20fire%20detection%20using%20classical%20cv) | Computer-vision project using classical image-processing techniques to detect smoke and fire. |
 
 ## Now
 
